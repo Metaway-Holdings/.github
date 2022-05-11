@@ -1,12 +1,15 @@
-## Hi there 👋
 
-<!--
+![Open Source at Metawayholdings](https://metawayholdings.com/img/Logo-cmc.png) 
 
-**Here are some ideas to get you started:**
+## Get Involved
+The Big Things - Digital Economy Corporation
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="https://metawayholdings.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:cto@metawayholdings.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Metaway-Holdings"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/company/metawayholdings/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+
+</p>
