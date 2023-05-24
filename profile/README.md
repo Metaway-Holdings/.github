@@ -1,5 +1,5 @@
 
-![Open Source at Metawayholdings](https://metawayholdings.com/img/logo.svg) 
+![Open Source at Metawayholdings](https://metawayholdings.vn/img/metaway-logo.png) 
 
 ## Get Involved
 The Big Things - Digital Economy Corporation
